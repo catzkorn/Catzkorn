@@ -3,7 +3,7 @@
 
 Currently based in the UK 🇬🇧; soon to be Canada 🇨🇦🍁! 
 
-I'm passionate about backend development, curious about dev-ops and cyber security, a budding Gopher and oversharer of gifs on twitter.
+I'm passionate about backend development, curious about dev-ops and security, a budding Gopher and oversharer of gifs on twitter.
 
 
 
